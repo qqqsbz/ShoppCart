@@ -30,6 +30,7 @@
 		DCC5D23B1BD62F35007782DC /* GoodsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC5D23A1BD62F35007782DC /* GoodsViewController.m */; settings = {ASSET_TAGS = (); }; };
 		DCC5D23D1BD63106007782DC /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = DCC5D23C1BD63106007782DC /* Podfile */; settings = {ASSET_TAGS = (); }; };
 		DCC5D2411BD63214007782DC /* Goods.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC5D2401BD63214007782DC /* Goods.m */; settings = {ASSET_TAGS = (); }; };
+		DCCC77FD1BD8D22B00C20403 /* screenshots.gif in Resources */ = {isa = PBXBuildFile; fileRef = DCCC77FC1BD8D22B00C20403 /* screenshots.gif */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +89,7 @@
 		DCC5D23C1BD63106007782DC /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		DCC5D23F1BD63214007782DC /* Goods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Goods.h; sourceTree = "<group>"; };
 		DCC5D2401BD63214007782DC /* Goods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Goods.m; sourceTree = "<group>"; };
+		DCCC77FC1BD8D22B00C20403 /* screenshots.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshots.gif; sourceTree = "<group>"; };
 		DFEA94BA80C2B44B7FAF5E35 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -160,6 +162,7 @@
 		DCC5D1DD1BD4D927007782DC /* ShoppingCart */ = {
 			isa = PBXGroup;
 			children = (
+				DCCC77FC1BD8D22B00C20403 /* screenshots.gif */,
 				DCC5D23E1BD63203007782DC /* model */,
 				DCC5D2281BD5DA3A007782DC /* custom */,
 				DCC5D2271BD5DA2B007782DC /* app */,
@@ -379,6 +382,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCCC77FD1BD8D22B00C20403 /* screenshots.gif in Resources */,
 				DCC5D1F11BD4D928007782DC /* LaunchScreen.storyboard in Resources */,
 				DCC5D1EE1BD4D928007782DC /* Assets.xcassets in Resources */,
 				DCBB68BA1BD77DB3005EACCC /* rusuanjun.jpg in Resources */,
